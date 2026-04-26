@@ -37,7 +37,7 @@
 - Collision handling via chaining
 - Bucket-wise display of all records
 
-👉 <a href="https://github.com/shreyansh-hub/smart-canteen-portal">View Project</a>
+👉 <a href="https://github.com/shreyansh-hub/library-management-hash-table">View Project</a>
 
 ## 📫 Connect With Me
 
