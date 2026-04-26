@@ -38,7 +38,6 @@
 - Bucket-wise display of all records
 
 👉 <a href="https://github.com/shreyansh-hub/smart-canteen-portal">View Project</a>
----
 
 ## 📫 Connect With Me
 
